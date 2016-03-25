@@ -1,0 +1,8 @@
+E:\mylab\VS2013\Projects\passingImages\passingImages\bin\Debug\passingImages.exe
+E:\mylab\VS2013\Projects\passingImages\passingImages\bin\Debug\passingImages.pdb
+E:\mylab\VS2013\Projects\passingImages\passingImages\obj\Debug\passingImages.Form1.resources
+E:\mylab\VS2013\Projects\passingImages\passingImages\obj\Debug\passingImages.Form2.resources
+E:\mylab\VS2013\Projects\passingImages\passingImages\obj\Debug\passingImages.Properties.Resources.resources
+E:\mylab\VS2013\Projects\passingImages\passingImages\obj\Debug\passingImages.csproj.GenerateResource.Cache
+E:\mylab\VS2013\Projects\passingImages\passingImages\obj\Debug\passingImages.exe
+E:\mylab\VS2013\Projects\passingImages\passingImages\obj\Debug\passingImages.pdb
